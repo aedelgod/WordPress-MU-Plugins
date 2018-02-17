@@ -1,6 +1,6 @@
 <?php
 /**
- * Description: Remove SmartCrawl Node
+ * Description: Removes SmartCrawl Menu from the Admin bar on WordPress websites. Add to /wp-content/mu-plugins/ (create if doesn't exist)
  * Plugin Name: Remove SmartCrawl Node
  * Author: Dillyn Barber
  * Author URI: https://www.caveconsulting.com
