@@ -17,4 +17,4 @@ remove-youraccount.php
 ------
 >Remove Pro Site's "Your Account" from the WP-Admin bar. Upload to /wp-content/mu-plugins
 >
->This is only for WPMU's Pro Sites plugin. I found it redundant to have it in the Admin Bar and the admin menu (on the left). Let's keep >those Admin Bars clean!
+>This is only for WPMU's Pro Sites plugin. I found it redundant to have it in the Admin Bar and the admin menu (on the left). Let's keep those Admin Bars clean!
